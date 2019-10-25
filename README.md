@@ -1,2 +1,2 @@
 # datasciencecoursera
-This a data Scientist's Toolbox repo.
+This is a data Scientist's Toolbox repo.
